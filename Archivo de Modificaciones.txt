@@ -8,3 +8,5 @@
 \f0\fs28 \cf0 \expnd0\expndtw0\kerning0
 "Este archivo ser\'e1 utilizado para emular modificaciones en el proyecto colaborativo.\
 KitziaFigueroa\'94}
+
+Andres_Piedras_Ayala
